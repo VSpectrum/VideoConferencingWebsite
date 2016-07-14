@@ -1,0 +1,191 @@
+<!DOCTYPE html> 
+<html> 
+
+<head>
+{% load staticfiles %}
+
+<script src="{% static 'jquerymin211.js' %}"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="{% static 'bootstrapmin320.css' %}">
+<link rel="stylesheet" href="{% static 'bootstraptheme320.css' %}">
+<script src="{% static 'bootstrap320.js' %}"></script>
+<link rel="stylesheet" href="{% static 'sidebar.css' %}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style type="text/css">
+    .button {
+        border-top: 1px solid #96d1f8;
+        background: #3c7fba;
+        padding: 6.5px 13px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+        -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+        box-shadow: rgba(0,0,0,1) 0 1px 0;
+        text-shadow: rgba(0,0,0,.4) 0 1px 0;
+        color: #ffffff;
+        font-size: 17px;
+        font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+        text-decoration: none;
+        vertical-align: middle;
+    }
+    .button:hover {
+        border-top-color: #5e0e0e;
+        background: #5e0e0e;
+        color: #ffffff;
+    }
+    .button:active {
+       border-top-color: #1b435e;
+       background: #1b435e;
+    }
+
+    .sidebar-nav li {
+      border-bottom: 2px solid #BBBBBB;
+    }
+</style>
+
+
+<script type="text/javascript"> 
+
+   $(window).bind('beforeunload', function() {
+        
+    });
+
+   $( document ).ready(function() {
+
+
+          var interval = 8000;  // 5000 = 5 seconds
+          function doAjax() {
+              $.ajax({
+                      type: 'POST',
+                      url: '/getUIsessions/',
+                      data: {
+                            csrfmiddlewaretoken: '{{ csrf_token }}',
+                      },
+                      success: function (data) {
+                               $('#sessioninvitelist').html(data);   
+                      },
+                      complete: function (data) {
+                              // Schedule the next
+                              setTimeout(doAjax, interval);
+                      }
+              });
+          }
+          doAjax();
+          //setTimeout(doAjax, interval);
+    });
+
+   var username = String("{{myuname}}");
+
+</script>
+
+
+</head>
+
+<body> 
+
+<div class="debug"></div>
+
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav" style="margin:0 auto; display: table; font-family: 'Droid Serif', serif;">
+            <li class="sidebar-brand">
+                <a href="/{{pageuname|safe}}">{{pagename}}</a>
+            </li>
+            <!--
+            <li>
+                <a href="/{{myuname|safe}}">My Home Page</a>
+            </li>
+            <li>
+                <a href="#">Friends</a>
+            </li>-->
+            <li id="userinvitesess">
+                <a href="#">Create User-Invited-Only Session</a>
+            </li>
+            <li id="opensess">
+                <a href="#">Create Open Session</a>
+            </li>
+            <li>
+                <a href="/logout">Logout</a>
+            </li>
+
+        </ul>
+    </div>
+
+    {% if myuname == pageuname %}
+      <div id="page-content-wrapper">
+              <button class="button" id="menu-toggle">Toggle Menu</button>
+      </div>
+      
+      <div style="padding-left:20px">
+          <h4> Active Sessions Invited to: </h4>
+          <pre style="width:250px; height:20%;" class='pre-scrollable'>
+            <ul id="sessioninvitelist"></ul>
+          </pre>
+      </div>
+
+
+    {% else %}
+      <div id="page-content-wrapper">
+              <a class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+              <br/>
+              Welcome to {{ pageuname }}'s Page!
+      </div>
+
+
+    {% endif %}
+
+</div>
+
+
+
+<script type="text/javascript"> 
+
+    $("#userinvitesess").click( function(){
+          $.ajax({
+              type: "POST",
+              url: "/{{myuname}}/",
+              data: {
+                  csrfmiddlewaretoken: '{{ csrf_token }}',
+                  Psessprivate: "True"
+              },
+              success: function(data) {
+                  window.location.href = data;
+              },
+              error: function(xhr, textStatus, errorThrown) {
+                  alert("Error occurred");
+              }
+          });
+    });
+
+
+    $("#opensess").click( function(){
+          $.ajax({
+              type: "POST",
+              url: "/{{myuname}}/",
+              data: {
+                  csrfmiddlewaretoken: '{{ csrf_token }}',
+                  Psessprivate: "False"
+              },
+              success: function(data) {
+                  window.location.href = data;
+              },
+              error: function(xhr, textStatus, errorThrown) {
+                  alert("Error occurred");
+              }
+          });
+    });
+
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+
+</script>
+</body> 
+
+</html>
