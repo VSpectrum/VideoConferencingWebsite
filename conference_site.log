@@ -2966,3 +2966,178 @@
 [Tue Jul 05 03:48:52.363917 2016] [:error] [pid 2753] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-07-05 03:48:52.362843) while time zone support is active.
 [Tue Jul 05 03:48:52.363994 2016] [:error] [pid 2753]   RuntimeWarning)
 [Tue Jul 05 03:48:52.364012 2016] [:error] [pid 2753] 
+[Thu Jul 14 05:40:44.304595 2016] [:error] [pid 19795] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-07-14 05:40:44.302329) while time zone support is active.
+[Thu Jul 14 05:40:44.305331 2016] [:error] [pid 19795]   RuntimeWarning)
+[Thu Jul 14 05:40:44.305342 2016] [:error] [pid 19795] 
+[Thu Jul 14 05:40:55.725058 2016] [:error] [pid 19795] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-07-14 05:40:55.724387) while time zone support is active.
+[Thu Jul 14 05:40:55.725115 2016] [:error] [pid 19795]   RuntimeWarning)
+[Thu Jul 14 05:40:55.725122 2016] [:error] [pid 19795] 
+[Thu Jul 14 05:40:56.492473 2016] [:error] [pid 19795] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-07-14 05:40:56.491869) while time zone support is active.
+[Thu Jul 14 05:40:56.492529 2016] [:error] [pid 19795]   RuntimeWarning)
+[Thu Jul 14 05:40:56.492537 2016] [:error] [pid 19795] 
+[Thu Jul 14 05:42:25.093903 2016] [:error] [pid 19795] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-07-14 05:42:25.093358) while time zone support is active.
+[Thu Jul 14 05:42:25.093950 2016] [:error] [pid 19795]   RuntimeWarning)
+[Thu Jul 14 05:42:25.093958 2016] [:error] [pid 19795] 
+[Thu Aug 18 16:53:27.503862 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:53:27.501923) while time zone support is active.
+[Thu Aug 18 16:53:27.504414 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:53:27.504425 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:55:44.566544 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:55:44.566021) while time zone support is active.
+[Thu Aug 18 16:55:44.566616 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:55:44.566624 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:03.354864 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:03.354331) while time zone support is active.
+[Thu Aug 18 16:56:03.354912 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:03.354919 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:06.602126 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:06.601051) while time zone support is active.
+[Thu Aug 18 16:56:06.602196 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:06.602212 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:34.366368 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:34.365853) while time zone support is active.
+[Thu Aug 18 16:56:34.366423 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:34.366430 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:35.174669 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:35.174129) while time zone support is active.
+[Thu Aug 18 16:56:35.174712 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:35.174719 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:39.787131 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:39.786557) while time zone support is active.
+[Thu Aug 18 16:56:39.787193 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:39.787204 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:56:41.319410 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:56:41.318806) while time zone support is active.
+[Thu Aug 18 16:56:41.319464 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:56:41.319473 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:57:18.242379 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:57:18.241775) while time zone support is active.
+[Thu Aug 18 16:57:18.242442 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:57:18.242449 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:57:20.789772 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:57:20.789176) while time zone support is active.
+[Thu Aug 18 16:57:20.789829 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:57:20.789836 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:57:52.305825 2016] [:error] [pid 24816] 'e6fa10687c488318ae5bd41a7ede7a8a'
+[Thu Aug 18 16:57:58.124644 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:57:58.124038) while time zone support is active.
+[Thu Aug 18 16:57:58.124699 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:57:58.124707 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:58:08.044031 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:58:08.043397) while time zone support is active.
+[Thu Aug 18 16:58:08.044085 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:58:08.044092 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:58:44.813474 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:58:44.812936) while time zone support is active.
+[Thu Aug 18 16:58:44.813524 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:58:44.813530 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:59:25.508440 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:59:25.507828) while time zone support is active.
+[Thu Aug 18 16:59:25.508491 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:59:25.508498 2016] [:error] [pid 24816] 
+[Thu Aug 18 16:59:59.002169 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 16:59:59.001600) while time zone support is active.
+[Thu Aug 18 16:59:59.002224 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 16:59:59.002231 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:00:01.982294 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:00:01.981457) while time zone support is active.
+[Thu Aug 18 17:00:01.982359 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:00:01.982371 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:01:28.932181 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:01:28.931460) while time zone support is active.
+[Thu Aug 18 17:01:28.932233 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:01:28.932243 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:01:57.585816 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:01:57.585317) while time zone support is active.
+[Thu Aug 18 17:01:57.585861 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:01:57.585872 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:09:49.153130 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:09:49.152460) while time zone support is active.
+[Thu Aug 18 17:09:49.153216 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:09:49.153223 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:11:28.437545 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:11:28.436884) while time zone support is active.
+[Thu Aug 18 17:11:28.437597 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:11:28.437604 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:18:03.353567 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:18:03.352965) while time zone support is active.
+[Thu Aug 18 17:18:03.353629 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:18:03.353636 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:39:29.256715 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:39:29.256193) while time zone support is active.
+[Thu Aug 18 17:39:29.256767 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:39:29.256778 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:00.710890 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:00.710252) while time zone support is active.
+[Thu Aug 18 17:43:00.710961 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:00.710968 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:01.583188 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:01.582500) while time zone support is active.
+[Thu Aug 18 17:43:01.583253 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:01.583262 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:06.143024 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:06.142418) while time zone support is active.
+[Thu Aug 18 17:43:06.143084 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:06.143092 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:06.901792 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:06.901045) while time zone support is active.
+[Thu Aug 18 17:43:06.901846 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:06.901853 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:11.132104 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:11.131097) while time zone support is active.
+[Thu Aug 18 17:43:11.132173 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:11.132188 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:14.130680 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:14.130151) while time zone support is active.
+[Thu Aug 18 17:43:14.130723 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:14.130730 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:43:20.924609 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:43:20.924092) while time zone support is active.
+[Thu Aug 18 17:43:20.924654 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:43:20.924661 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:00.687808 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:00.687240) while time zone support is active.
+[Thu Aug 18 17:44:00.687858 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:00.687865 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:04.888252 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:04.887634) while time zone support is active.
+[Thu Aug 18 17:44:04.888327 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:04.888335 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:41.982095 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:41.980983) while time zone support is active.
+[Thu Aug 18 17:44:41.982196 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:41.982223 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:42.799330 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:42.798691) while time zone support is active.
+[Thu Aug 18 17:44:42.799396 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:42.799407 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:46.144349 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:46.143772) while time zone support is active.
+[Thu Aug 18 17:44:46.144410 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:46.144417 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:44:46.719112 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:44:46.718606) while time zone support is active.
+[Thu Aug 18 17:44:46.719155 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:44:46.719162 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:27.570665 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:27.570084) while time zone support is active.
+[Thu Aug 18 17:50:27.570714 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:27.570721 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:28.020736 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:28.020113) while time zone support is active.
+[Thu Aug 18 17:50:28.020782 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:28.020789 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:34.289605 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:34.289104) while time zone support is active.
+[Thu Aug 18 17:50:34.289651 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:34.289657 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:35.020603 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:35.020053) while time zone support is active.
+[Thu Aug 18 17:50:35.020646 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:35.020653 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:40.846602 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:40.846026) while time zone support is active.
+[Thu Aug 18 17:50:40.846671 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:40.846711 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:41.304280 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:41.303776) while time zone support is active.
+[Thu Aug 18 17:50:41.304322 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:41.304329 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:41.461273 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:41.460776) while time zone support is active.
+[Thu Aug 18 17:50:41.461312 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:41.461319 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:50:41.921409 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:50:41.920838) while time zone support is active.
+[Thu Aug 18 17:50:41.921464 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:50:41.921470 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:51:16.316759 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:51:16.316150) while time zone support is active.
+[Thu Aug 18 17:51:16.316834 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:51:16.316841 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:51:16.746270 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:51:16.745771) while time zone support is active.
+[Thu Aug 18 17:51:16.746313 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:51:16.746320 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:51:19.339602 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:51:19.339109) while time zone support is active.
+[Thu Aug 18 17:51:19.339643 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:51:19.339649 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:51:19.750419 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:51:19.749728) while time zone support is active.
+[Thu Aug 18 17:51:19.750471 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:51:19.750483 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:52:25.046731 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:52:25.046066) while time zone support is active.
+[Thu Aug 18 17:52:25.046793 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:52:25.046807 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:52:25.828901 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:52:25.828396) while time zone support is active.
+[Thu Aug 18 17:52:25.828942 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:52:25.828949 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:52:34.333799 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:52:34.333261) while time zone support is active.
+[Thu Aug 18 17:52:34.333862 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:52:34.333870 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:52:34.741154 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:52:34.740648) while time zone support is active.
+[Thu Aug 18 17:52:34.741195 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:52:34.741202 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:52:57.742758 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:52:57.742260) while time zone support is active.
+[Thu Aug 18 17:52:57.742801 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:52:57.742808 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:53:50.356150 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:53:50.355619) while time zone support is active.
+[Thu Aug 18 17:53:50.356199 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:53:50.356206 2016] [:error] [pid 24816] 
+[Thu Aug 18 17:57:14.081704 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:57:14.081184) while time zone support is active.
+[Thu Aug 18 17:57:14.081751 2016] [:error] [pid 24816]   RuntimeWarning)
+[Thu Aug 18 17:57:14.081758 2016] [:error] [pid 24816] 
