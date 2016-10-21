@@ -1,0 +1,36 @@
+[Thu Oct 20 23:20:28.129514 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] mod_wsgi (pid=9420): Target WSGI script '/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py' cannot be loaded as Python module.
+[Thu Oct 20 23:20:28.129597 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] mod_wsgi (pid=9420): Exception occurred processing WSGI script '/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py'.
+[Thu Oct 20 23:20:28.129630 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] Traceback (most recent call last):
+[Thu Oct 20 23:20:28.129652 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py", line 14, in <module>
+[Thu Oct 20 23:20:28.129716 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     application = get_wsgi_application()
+[Thu Oct 20 23:20:28.129727 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Thu Oct 20 23:20:28.129775 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     django.setup()
+[Thu Oct 20 23:20:28.129787 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Thu Oct 20 23:20:28.129821 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Thu Oct 20 23:20:28.129830 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Thu Oct 20 23:20:28.130005 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     self._setup(name)
+[Thu Oct 20 23:20:28.130025 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Thu Oct 20 23:20:28.130050 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     self._wrapped = Settings(settings_module)
+[Thu Oct 20 23:20:28.130061 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 92, in __init__
+[Thu Oct 20 23:20:28.130077 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Thu Oct 20 23:20:28.130086 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Thu Oct 20 23:20:28.130141 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     __import__(name)
+[Thu Oct 20 23:20:28.130174 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] ImportError: No module named WebConfSite.settings
+[Thu Oct 20 23:20:28.475617 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] mod_wsgi (pid=9420): Target WSGI script '/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py' cannot be loaded as Python module.
+[Thu Oct 20 23:20:28.475652 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] mod_wsgi (pid=9420): Exception occurred processing WSGI script '/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py'.
+[Thu Oct 20 23:20:28.475676 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] Traceback (most recent call last):
+[Thu Oct 20 23:20:28.475702 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/WebConfSite/wsgi.py", line 14, in <module>
+[Thu Oct 20 23:20:28.475753 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     application = get_wsgi_application()
+[Thu Oct 20 23:20:28.475765 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/core/wsgi.py", line 14, in get_wsgi_application
+[Thu Oct 20 23:20:28.475797 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     django.setup()
+[Thu Oct 20 23:20:28.475805 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/__init__.py", line 17, in setup
+[Thu Oct 20 23:20:28.475816 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+[Thu Oct 20 23:20:28.475822 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 48, in __getattr__
+[Thu Oct 20 23:20:28.475833 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     self._setup(name)
+[Thu Oct 20 23:20:28.475838 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 44, in _setup
+[Thu Oct 20 23:20:28.475846 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     self._wrapped = Settings(settings_module)
+[Thu Oct 20 23:20:28.475851 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/conf/__init__.py", line 92, in __init__
+[Thu Oct 20 23:20:28.475859 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Thu Oct 20 23:20:28.475865 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Thu Oct 20 23:20:28.475875 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460]     __import__(name)
+[Thu Oct 20 23:20:28.475897 2016] [wsgi:error] [pid 9420] [remote 190.213.130.200:43460] ImportError: No module named WebConfSite.settings

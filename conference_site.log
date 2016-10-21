@@ -3141,3 +3141,37 @@
 [Thu Aug 18 17:57:14.081704 2016] [:error] [pid 24816] /var/www/PyDev/WebConf/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1278: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-08-18 17:57:14.081184) while time zone support is active.
 [Thu Aug 18 17:57:14.081751 2016] [:error] [pid 24816]   RuntimeWarning)
 [Thu Aug 18 17:57:14.081758 2016] [:error] [pid 24816] 
+[Fri Oct 21 03:23:15.189211 2016] [wsgi:error] [pid 9523] No handlers could be found for logger "social"
+[Fri Oct 21 03:23:35.830829 2016] [wsgi:error] [pid 9523] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:23:35.828688) while time zone support is active.
+[Fri Oct 21 03:23:35.830882 2016] [wsgi:error] [pid 9523]   RuntimeWarning)
+[Fri Oct 21 03:23:35.830887 2016] [wsgi:error] [pid 9523] 
+extern "Python": function Cryptography_rand_bytes() called, but @ffi.def_extern() was not called in the current subinterpreter.  Returning 0.
+extern "Python": function Cryptography_rand_bytes() called, but @ffi.def_extern() was not called in the current subinterpreter.  Returning 0.
+[Fri Oct 21 03:28:07.134609 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:07.133298) while time zone support is active.
+[Fri Oct 21 03:28:07.134673 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:07.134677 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:28:08.616187 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:08.615277) while time zone support is active.
+[Fri Oct 21 03:28:08.616245 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:08.616250 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:28:21.804449 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:21.803822) while time zone support is active.
+[Fri Oct 21 03:28:21.804481 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:21.804497 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:28:22.793142 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:22.792574) while time zone support is active.
+[Fri Oct 21 03:28:22.793176 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:22.793179 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:28:31.533980 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:31.533144) while time zone support is active.
+[Fri Oct 21 03:28:31.534039 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:31.534044 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:28:51.329519 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:28:51.328964) while time zone support is active.
+[Fri Oct 21 03:28:51.329569 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:28:51.329572 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:29:06.022269 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:29:06.021660) while time zone support is active.
+[Fri Oct 21 03:29:06.022318 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:29:06.022321 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:29:06.955770 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:29:06.955230) while time zone support is active.
+[Fri Oct 21 03:29:06.955797 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:29:06.955799 2016] [wsgi:error] [pid 10838] 
+[Fri Oct 21 03:29:47.910192 2016] [wsgi:error] [pid 10838] No handlers could be found for logger "social"
+[Fri Oct 21 03:30:16.775309 2016] [wsgi:error] [pid 10838] /var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1474: RuntimeWarning: DateTimeField ManagedSession.Timestamp received a naive datetime (2016-10-21 03:30:16.774624) while time zone support is active.
+[Fri Oct 21 03:30:16.775358 2016] [wsgi:error] [pid 10838]   RuntimeWarning)
+[Fri Oct 21 03:30:16.775361 2016] [wsgi:error] [pid 10838] 
