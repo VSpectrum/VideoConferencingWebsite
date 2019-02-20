@@ -1,4 +1,4 @@
-#!/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/bin/python2
+#!/var/www/PyDev/VidConf/VideoConferencingWebsite/VideoConf-env/bin/python
 from django.core import management
 
 if __name__ == "__main__":

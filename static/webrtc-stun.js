@@ -207,6 +207,8 @@ function RTCPeerConnection(options) {
     var vidbandwidth = $('#videoband').val();
     var audbandwidth = $('#audioband').val();
 
+    console.log("Constraints: ", vidbandwidth, audbandwidth);
+
     var vbisnum = /^\d+$/.test(String(vidbandwidth));
     var abisnum = /^\d+$/.test(String(audbandwidth));
 
@@ -615,7 +617,7 @@ function getUserMedia(options) {
         console.dir(stream);
         var video = options.video;
         if (video) {
-            video[moz ? 'mozSrcObject' : 'src'] = moz ? stream : window.URL.createObjectURL(stream);
+            video[moz ? 'mozSrcObject' : 'srcObject'] = stream;
             video.width=400;
             video.play();
         }
